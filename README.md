@@ -5,14 +5,14 @@ Página web que se conecta con PayPal para realizar el proceso de pago de los pr
 **Página Inicio:**
 ![Screenshot](screenshot/1Home.png)
 
-**Página Producto**
+**Página Producto:**
 ![Screenshot](screenshot/2producto.png)
 
-**Página Venta**
+**Página Venta:**
 ![Screenshot](screenshot/3Venta.png)
 
-**Página Éxito**
+**Página Éxito:**
 ![Screenshot](screenshot/4exito.png)
 
-**Página Falla**
+**Página Falla:**
 ![Screenshot](screenshot/5falla.png)
